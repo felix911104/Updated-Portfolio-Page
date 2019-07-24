@@ -1,4 +1,4 @@
-.social-card-header{
+/* .social-card-header{
     position: relative;
     display: -ms-flexbox;
     display: flex;
@@ -39,4 +39,7 @@
 .share:hover {
         text-decoration: none;
     opacity: 0.8;
+} */
+.card-img-top{
+    height:250px;
 }
